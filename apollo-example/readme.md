@@ -143,6 +143,6 @@ Note the queryString for code? That's required and is a key.
 **CORS**
 We also know we'll need to deal with CORS if we are not same origin.
 
-Let's try:
+ 
 
  
