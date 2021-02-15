@@ -8,6 +8,7 @@ func host start
 ```
  
 You should see this:
+
 ![](public/funchoststart.png)
 
 
@@ -116,6 +117,7 @@ Host.json
 ```
 To use the new function open up the [portal](https://portal.zaure.com).
 Then drill down to the function just uploaded select "GetFunction key";
+
 ![](public/cloudtest.png) chose "default(Function key)"
 
 **The Playground**
